@@ -13,7 +13,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta http-equiv="Content-Language" content="es"/>
     <meta charset="UTF-8">
-    <meta name="Keywords" content="Telefonica Movistar"/>
+    <meta name="Keywords" content=""/>
     <meta name="Description" content="Telefonica"/>
     <meta name="Distribution" content="global"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
